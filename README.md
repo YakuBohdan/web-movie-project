@@ -1,12 +1,14 @@
+Вам потрібно встановити nodemon на сервер і клієнт
+Просто введіть npm install у терміналі для обох папок
 
-# You need to open two terminals to run this project:
+# Вам потрібно відкрити два термінали, щоб запустити цей проект:
 
-1 terminal:
+1 термінал:
 # `cd client`
 # `npm i`
 # `npm run start`
 
-2 terminal:
+2 термінал:
 # `cd server`
 # `npm i`
 # `npm run dev`
